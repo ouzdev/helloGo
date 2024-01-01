@@ -1,4 +1,6 @@
 # Go Hello World
+![Go Workflow](https://github.com/ouzdev/helloGo/workflows/Go/badge.svg)
+
 
 A simple Go project that prints "Hello, World!" to the console.
 
